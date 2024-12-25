@@ -111,25 +111,7 @@ This project is fully completed with the following functionality implemented:
 - API implementation for managing and interacting with tours and bookings.
 - Database migrations to ensure proper schema structure.
 
-## Git Usage
 
-The Git repository has been set up with two main branches:
-
-- **`api`**: Contains all the API-related code and routes.
-- **`final_project`**: Contains the fully integrated version of the project with both frontend and backend.
-
-Make sure to only push changes to the correct branch, and follow the repository structure as outlined.
-
-## Submission Process
-
-- Ensure that your repository is up to date and contains all the necessary changes.
-- Submit the repository by sharing your Git repository link on GCR.
-
-## Deadline Policy
-
-The submission deadline is strict and no updates will be allowed after the deadline. Please ensure your project is ready before the submission date.
-
----
 
 Thank you for reviewing the **Pak Tour Agency** project!
 
